@@ -1,0 +1,105 @@
+Computer Science
+
+1. What are robots
+
+a) magic
+b) unicorns
+c) not magic
+
+[end question]
+
+2. question
+
+a) okay
+b) not okay
+c) sure
+
+[end question]
+
+3. better question
+
+a) acceptable
+b) adequate
+c) enjoyable
+
+[end question]
+
+4. magnificent question
+
+a) indulging
+b) enlightening
+c) eccentric
+
+[end question]
+
+5. unfathomable question
+
+a) a
+b) aa
+c) AAAAAAAAAAAAA
+
+[end question]
+
+end Computer Science_quiz
+
+Computer Science_answers
+a
+b
+c
+a
+b
+end Computer Science_answers
+
+Maths
+
+1. How many ways are there to fill a 3x3 table where 
+with distinct integers from 1 to 9?
+
+a) 520,230
+b) 362,880
+c) 100,000
+
+[end question]
+
+2. What is log(100)?
+
+a) 2
+b) 100
+c) Too long
+
+[end question]
+
+3. What is 10^Log(7)?
+
+a) 8.192
+b) 7
+c) 1.245
+
+[end question]
+
+4. A function f is defined by f(x)=x^2-3x-4 and -2 = x = 6. 
+Find the range of f(x)
+
+a) (x-y)^3
+b) (x^2-xy)^2-(xy-y^2)^2/(x-y)
+c) (x+y^3)-(xy+x^3)
+
+[end question]
+
+5. What is 5+5?
+
+a) 10
+b) 5
+c) Too hard
+
+[end question]
+
+end Maths_quiz
+
+Maths_answers
+b
+a
+b
+a
+a
+end Maths_answers
